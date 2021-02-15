@@ -5,6 +5,6 @@ function iterativeLog(array) {
 }
 
 function iterate(callback) {
-  myArray = [];
+  myArray = ['hello'];
   
 }
